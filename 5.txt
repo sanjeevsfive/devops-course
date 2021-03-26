@@ -1,0 +1,1 @@
+this is test for pushing a new file to check if this is automatically being pulled on to clone gti at local git repositary
